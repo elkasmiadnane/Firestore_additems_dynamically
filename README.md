@@ -14,3 +14,5 @@ This projects uses :
   - Firebase Firestore
   - Lambdas
   - Connectivity checks
+
+https://media.giphy.com/media/IYE196e0HcukKZ7Odj/giphy.gif
