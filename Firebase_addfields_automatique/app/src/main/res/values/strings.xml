@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase_addbuttons_automatique</string>
+    <string name="label_">Here you find the content imported from Firestore</string>
+
+</resources>
