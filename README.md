@@ -15,4 +15,4 @@ This projects uses :
   - Lambdas
   - Connectivity checks
 
-![alt text](https://media.giphy.com/media/IYE196e0HcukKZ7Odj/giphy.gif)
+![alt text](https://media.giphy.com/media/IYE196e0HcukKZ7Odj/giphy.gif = 1400 x 690)
