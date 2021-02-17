@@ -1,8 +1,11 @@
 # Firestore_additems_proportionally
-android java 
+
+Being able to read all documents from our database and show them responively to the user as they are added in the database contantly.
+
+DON'T FORGET TO SET YOUR DATABASE SECURUTY (Firestore rules in our case) !!!!!!!!!!
 
 
-This if a project that contains two activities:
+This is a project that contains two activities:
 
  - One to list items that we already have in our firestore.
  - The second will show content of that item in a new activity called Result.java
