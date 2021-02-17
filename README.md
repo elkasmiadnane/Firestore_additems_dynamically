@@ -15,6 +15,6 @@ This projects uses :
   - Lambdas
   - Connectivity checks
 
-![Alt Text](https://gfycat.com/zestysnarlinglice)
+![Alt Text](https://gfycat.com/zestysnarlinglice.gif)
 
 
