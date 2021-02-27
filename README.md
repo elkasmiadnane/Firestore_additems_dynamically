@@ -1,4 +1,4 @@
-# Firestore_additems_proportionally
+# Firestore_additems_dynamically
 
 Being able to read all documents from our database and show them responively to the user as they are added in the database contantly.
 
