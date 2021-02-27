@@ -1,6 +1,6 @@
 # Firestore_additems_dynamically
 
-Being able to read all documents from our database and show them responively to the user as they are added in the database contantly.
+Being able to read all documents from our database and show them responively to the user as they are added in the database constantly.
 
 DON'T FORGET TO SET YOUR DATABASE SECURUTY (Firestore rules in our case) !!!!!!!!!!
 
